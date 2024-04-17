@@ -1,0 +1,2 @@
+java RandomCanvas
+pause
